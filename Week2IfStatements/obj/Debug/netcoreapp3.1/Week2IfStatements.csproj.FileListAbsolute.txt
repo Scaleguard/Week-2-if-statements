@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Week2IfStatements\Week2IfStatements\bin\Debug\netcoreapp3.1\Week2IfStatements.exe
+C:\Users\opilane\source\repos\Week2IfStatements\Week2IfStatements\bin\Debug\netcoreapp3.1\Week2IfStatements.deps.json
+C:\Users\opilane\source\repos\Week2IfStatements\Week2IfStatements\bin\Debug\netcoreapp3.1\Week2IfStatements.runtimeconfig.json
+C:\Users\opilane\source\repos\Week2IfStatements\Week2IfStatements\bin\Debug\netcoreapp3.1\Week2IfStatements.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Week2IfStatements\Week2IfStatements\bin\Debug\netcoreapp3.1\Week2IfStatements.dll
+C:\Users\opilane\source\repos\Week2IfStatements\Week2IfStatements\bin\Debug\netcoreapp3.1\Week2IfStatements.pdb
+C:\Users\opilane\source\repos\Week2IfStatements\Week2IfStatements\obj\Debug\netcoreapp3.1\Week2IfStatements.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Week2IfStatements\Week2IfStatements\obj\Debug\netcoreapp3.1\Week2IfStatements.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week2IfStatements\Week2IfStatements\obj\Debug\netcoreapp3.1\Week2IfStatements.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week2IfStatements\Week2IfStatements\obj\Debug\netcoreapp3.1\Week2IfStatements.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Week2IfStatements\Week2IfStatements\obj\Debug\netcoreapp3.1\Week2IfStatements.dll
+C:\Users\opilane\source\repos\Week2IfStatements\Week2IfStatements\obj\Debug\netcoreapp3.1\Week2IfStatements.pdb
+C:\Users\opilane\source\repos\Week2IfStatements\Week2IfStatements\obj\Debug\netcoreapp3.1\Week2IfStatements.genruntimeconfig.cache
